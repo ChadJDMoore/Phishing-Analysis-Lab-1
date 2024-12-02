@@ -13,12 +13,9 @@ Investigate the phishing email and attachment to gather useful information.
 - Enhancing investigative and analytical skills for email-based threats.
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
-
+- VirtualBox for an isolated environment, using a Windows 10 virtual machine and snapshots for testing
+  
 ## Steps
 drag & drop screenshots here or use imgur and reference them using imgsrc
 
