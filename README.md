@@ -14,7 +14,7 @@ Investigate the phishing email and attachment to gather useful information.
 
 ### Tools Used
 
-- VirtualBox for an isolated environment, using a Windows 10 virtual machine and snapshots for testing
+- VirtualBox for an isolated environment, using a Windows 10 virtual machine and snapshots for analysis.
   
 ## Steps
 drag & drop screenshots here or use imgur and reference them using imgsrc
