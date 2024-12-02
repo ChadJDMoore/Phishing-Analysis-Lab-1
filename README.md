@@ -5,13 +5,12 @@
 Investigate the phishing email and attachment to gather useful information.
 
 ### Skills Learned
-[Bullet Points - Remove this afterwards]
 
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
+- Identifying phishing techniques and tactics used in malicious emails.
+- Extracting key information, such as email headers, URLs, and attachment metadata.
+- Analyzing attachments for potential malicious content.
+- Recognizing indicators of compromise (IOCs) within email artifacts.
+- Enhancing investigative and analytical skills for email-based threats.
 
 ### Tools Used
 [Bullet Points - Remove this afterwards]
