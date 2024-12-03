@@ -16,6 +16,8 @@ Investigate the phishing email and attachment from Blue Team Labs Online, to gat
 
 - VirtualBox for an isolated environment, using a Windows 10 virtual machine and snapshots for analysis
 - VirusTotal to scan the email attachment and URLs, identifying potential malware and phishing indicators
+- whois.domaintools for reverse DNS on orginating IP Address of the email
+- URL2PNG, to view the heading text on the page (of the suspicious URL)
   
 ## Steps
 #### 1. Analyse the suspicious email
