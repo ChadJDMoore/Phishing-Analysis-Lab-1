@@ -25,3 +25,11 @@ Investigate the phishing email and attachment from Blue Team Labs Online, to gat
 #### 5. Using URL2PNG to see what is the heading text on this page
 #### 6. Use VirusTotal to analyse the suspicious URL in the email attachment
 
+## Results
+From the analysis the following key information was obtained
+
+-
+-
+-
+-
+-
