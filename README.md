@@ -2,7 +2,7 @@
 
 ## Objective
 
-Investigate the phishing email and attachment from blue team labs online, to gather useful information.
+Investigate the phishing email and attachment from Blue Team Labs Online, to gather useful information.
 
 ### Skills Learned
 
