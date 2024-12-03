@@ -42,13 +42,14 @@ Investigate the phishing email and attachment from Blue Team Labs Online, to gat
 ## Results
 From the analysis the following key information was obtained:
 
-- The primary recipient of this email is
-- The subject of this email is
-- The date and time the email was sent is
-- The Originating IP is
-- The resolved host from reverse DNS on this IP address is
-- The name of the attached file is
+- The primary recipient of this email is **kinnar1975@yahoo.co.uk**
+- The subject of this email is **Undeliverable: Website contact form submission**
+- The date and time the email was sent is **18 March 2021 04:14**
+- The Originating IP is **103.9.171.10**
+- The resolved host from reverse DNS on this IP address is **c5s2-1e-syd.hosting-services.net.au**
+- The name of the attached file is **Website contact form submission**
 - The URL found inside the attachment is
 - The service this webpage is hosted on is
 - The heading text on this page, as captured using URL2PNG, is
+- VirusTotal flagged the suspicious URL as malicious
 
