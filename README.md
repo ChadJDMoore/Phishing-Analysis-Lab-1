@@ -40,10 +40,15 @@ Investigate the phishing email and attachment from Blue Team Labs Online, to gat
 
 
 ## Results
-From the analysis the following key information was obtained
+From the analysis the following key information was obtained:
 
--
--
--
--
--
+- The primary recipient of this email is
+- The subject of this email is
+- The date and time the email was sent is
+- The Originating IP is
+- The resolved host from reverse DNS on this IP address is
+- The name of the attached file is
+- The URL found inside the attachment is
+- The service this webpage is hosted on is
+- The heading text on this page, as captured using URL2PNG, is
+
