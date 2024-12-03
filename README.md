@@ -33,7 +33,7 @@ Investigate the phishing email and attachment from Blue Team Labs Online, to gat
 ![Screenshot 2024-12-03 021429](https://github.com/user-attachments/assets/1d7b3bf0-14d8-490c-a422-a7a8cfc31164)
 
 #### 5. Using URL2PNG to see what is the heading text on this page
-<img width="386" alt="image" src="https://github.com/user-attachments/assets/8ebcd2a4-a429-4849-85d8-30e0db44bad0">
+<img width="497" alt="image" src="https://github.com/user-attachments/assets/0c466821-6725-4fa7-a5de-67e60b515e3f">
 
 #### 6. Use VirusTotal to analyse the suspicious URL in the email attachment
 ![Screenshot 2024-12-03 020545](https://github.com/user-attachments/assets/2d6dba06-6275-47a4-b164-71a2ad8bf7e7)
