@@ -18,6 +18,7 @@ Investigate the phishing email and attachment from Blue Team Labs Online, to gat
 - VirusTotal to scan the email attachment and URLs, identifying potential malware and phishing indicators
 - whois.domaintools for reverse DNS on orginating IP Address of the email
 - URL2PNG, to view the heading text on the web page (of the suspicious URL)
+- Notepad for text editing
   
 ## Steps
 #### 1. Analyse the suspicious email
