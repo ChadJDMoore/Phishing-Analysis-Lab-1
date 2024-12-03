@@ -21,22 +21,22 @@ Investigate the phishing email and attachment from Blue Team Labs Online, to gat
   
 ## Steps
 #### 1. Analyse the suspicious email
-![Screenshot 2024-12-03 015648](https://github.com/user-attachments/assets/75b8a369-4de2-4b77-9dc6-17697fd719f3)
+<img width="473" alt="image" src="https://github.com/user-attachments/assets/75b8a369-4de2-4b77-9dc6-17697fd719f3">
 
 #### 2. Analyse the suspicious email header (a snippet is provided here)
-![Screenshot 2024-12-03 020002](https://github.com/user-attachments/assets/ff70cd90-2efe-4110-a5c1-07cd35d182d8)
+<img width="473" alt="image" src="https://github.com/user-attachments/assets/ff70cd90-2efe-4110-a5c1-07cd35d182d8">
 
 #### 3. Analyse the suspicious attachment in the email 
-![Screenshot 2024-12-03 015757](https://github.com/user-attachments/assets/fae98f73-15a3-48b2-8f2a-26455136cded)
+<img width="473" alt="image" src="https://github.com/user-attachments/assets/fae98f73-15a3-48b2-8f2a-26455136cded">
 
 #### 4. Perform reverse DNS on the Originating IP address using (whois.domaintools.com)
-![Screenshot 2024-12-03 021429](https://github.com/user-attachments/assets/1d7b3bf0-14d8-490c-a422-a7a8cfc31164)
+<img width="473" alt="image" src="https://github.com/user-attachments/assets/1d7b3bf0-14d8-490c-a422-a7a8cfc31164">
 
 #### 5. Using URL2PNG to see what is the heading text on this page
-<img width="497" alt="image" src="https://github.com/user-attachments/assets/0c466821-6725-4fa7-a5de-67e60b515e3f">
+<img width="473" alt="image" src="https://github.com/user-attachments/assets/0c466821-6725-4fa7-a5de-67e60b515e3f">
 
 #### 6. Use VirusTotal to analyse the suspicious URL in the email attachment
-![Screenshot 2024-12-03 020545](https://github.com/user-attachments/assets/2d6dba06-6275-47a4-b164-71a2ad8bf7e7)
+<img width="473" alt="image" src="https://github.com/user-attachments/assets/2d6dba06-6275-47a4-b164-71a2ad8bf7e7">
 
 
 ## Results
