@@ -14,7 +14,8 @@ Investigate the phishing email and attachment from blue team labs online, to gat
 
 ### Tools Used
 
-- VirtualBox for an isolated environment, using a Windows 10 virtual machine and snapshots for analysis.
+- VirtualBox for an isolated environment, using a Windows 10 virtual machine and snapshots for analysis
+- VirusTotal to scan the email attachment and URLs, identifying potential malware and phishing indicators
   
 ## Steps
 drag & drop screenshots here or use imgur and reference them using imgsrc
